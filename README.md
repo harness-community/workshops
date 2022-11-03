@@ -15,7 +15,7 @@ The Harness Workshops project is intended for effectively demonstrating Harness 
 TODO: Get approval on the internal available resources and add it here.
 
 ## Product Demos
-- [**Harness Product Demos**](): https://www.youtube.com/@harnesscommunity
+- [**Harness Product Demos**](https://www.youtube.com/@harnesscommunity)
 
 ## Workshop Documentation
 
