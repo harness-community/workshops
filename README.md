@@ -15,8 +15,7 @@ The Harness Workshops project is intended for effectively demonstrating Harness 
 TODO: Get approval on the internal available resources and add it here.
 
 ## Product Demos
-- [**Harness Demos**](): TODO Add Youtube Harness and Harness Community video links
-- [**Harness Community Demos**](): TODO Add Youtube Harness and Harness Community video links
+- [**Harness Product Demos**](https://www.youtube.com/@harnesscommunity)
 
 ## Workshop Documentation
 
@@ -25,7 +24,7 @@ TODO: Get approval on the internal available resources and add it here.
 
 ## Additional Content
 
-- TODO: Add useful blog links / solution articles
+- [Harness Community Site](https://harness-community.github.io/)
 -
 -
 
