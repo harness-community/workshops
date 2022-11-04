@@ -24,7 +24,7 @@ TODO: Get approval on the internal available resources and add it here.
 
 ## Additional Content
 
-- https://harness-community.github.io/
+- [Harness Community Site](https://harness-community.github.io/)
 -
 -
 
